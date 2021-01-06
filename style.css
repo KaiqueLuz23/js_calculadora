@@ -69,23 +69,35 @@ body{
 
 button:nth-child(4){
     font-size: 20px;
-    background-color: #cc0000;
+    background-color: #ff0000;
 }
 
 button:nth-child(8){
     font-size: 20px;
-    background-color: #e61919;
+    background-color: #ff0000;
 }
 
 button:nth-child(12){
     font-size: 20px;
-    background-color: #e61919;
+    background-color: #ff0000;
 }
 button:nth-child(16){
     font-size: 20px;
-    background-color: #e61919;
+    background-color: #ff0000;
 }
 button:nth-child(20){
     font-size: 20px;
-    background-color: #e61919;
+    background-color: #ff0000;
+}
+button:nth-child(1){
+    font-size: 20px;
+    background-color: #ff0000;
+}
+button:nth-child(2){
+    font-size: 20px;
+    background-color: #ff0000;
+}
+button:nth-child(3){
+    font-size: 20px;
+    background-color: #ff0000;
 }
